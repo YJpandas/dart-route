@@ -11,7 +11,7 @@
             "request": "launch",
             "type": "dart",
             "flutterMode": "debug",
-            "program": "var.dart"
+            "program": "bool.dart"
         }
     ]
 }
